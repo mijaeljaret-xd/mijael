@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="35f97ac7-cb3f-4439-ae57-2448f42befcc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/pe/edu/upeu/sysventas/ENUM/TipoDocumento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pe/edu/upeu/sysventas/dto/ComboBoxOption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pe/edu/upeu/sysventas/exception/ModelNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pe/edu/upeu/sysventas/repository/AbstractJpaRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pe/edu/upeu/sysventas/repository/ICrudGenericoRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/add-contact-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/correcto.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/data-add-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/del-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/document-edit-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/error.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/fondo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/fondo2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/fondo3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/icons8_Delete_20px_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/icons8_notification_20px_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/mail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/pass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/secrecy-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/shop-cart-add-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/store.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/user.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pe/edu/upeu/sysventas/ENUM/TipoDcumento.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pe/edu/upeu/sysventas/ENUM/TipoProducto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pe/edu/upeu/sysventas/ENUM/TipoProducto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pe/edu/upeu/sysventas/ENUM/TipoTab.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pe/edu/upeu/sysventas/ENUM/TipoTab.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pe/edu/upeu/sysventas/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pe/edu/upeu/sysventas/SysVentas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pe/edu/upeu/sysventas/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pe/edu/upeu/sysventas/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pe/edu/upeu/sysventas/model/Acceso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pe/edu/upeu/sysventas/model/Acceso.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pe/edu/upeu/sysventas/model/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pe/edu/upeu/sysventas/model/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pe/edu/upeu/sysventas/model/Producto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pe/edu/upeu/sysventas/model/Producto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/pe/edu/upeu/sysventas/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/view/hello-view.fxml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Kotlin Enum" />
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3IrjcyAstMOKQdbopdhImgnrWfU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Launcher.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Estudiante_Redes/Documents/xddddddd/mijael/SysVentas/src/main/resources/img",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Estudiante_Redes\Documents\xddddddd\mijael\SysVentas\src\main\resources\img" />
+      <recent name="C:\Users\Estudiante_Redes\Documents\xddddddd\mijael\SysVentas\src\main\resources" />
+      <recent name="C:\Users\Estudiante_Redes\Documents\xddddddd\mijael\SysVentas\src\main\resources\img\css" />
+      <recent name="C:\Users\Estudiante_Redes\Documents\xddddddd\mijael\SysVentas\src\main\java\pe\edu\upeu\sysventas\model" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Estudiante_Redes\Documents\xddddddd\mijael\SysVentas\src\main\resources\view" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pe.edu.upeu.sysventas.App" />
+      <module name="SysVentas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pe.edu.upeu.sysventas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Launcher" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-34e2839f716b-intellij.indexing.shared.core-IU-262.9437.185" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.9437.185" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35f97ac7-cb3f-4439-ae57-2448f42befcc" name="Changes" comment="" />
+      <created>1788529665490</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1788529665490</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
